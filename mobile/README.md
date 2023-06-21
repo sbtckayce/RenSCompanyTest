@@ -1,16 +1,17 @@
 # mobile
 
-A new Flutter project.
 
-## Getting Started
+## Screen
+![image](https://github.com/trungkien3008/RenSCompanyTest/assets/91471354/1a52ad48-bf0e-441d-9718-1a4d80c38dd7)
 
-This project is a starting point for a Flutter application.
+### Press Funny
+#### Next Joke And Show Number Joke
+![image](https://github.com/trungkien3008/RenSCompanyTest/assets/91471354/fc1e0c71-fb44-45fb-aa5d-871a56bd486a)
+### Press Not Funny
+#### Next Joke And Show Number Joke
+![image](https://github.com/trungkien3008/RenSCompanyTest/assets/91471354/10253ac2-1b34-4448-9004-9dd6ff7755f2)
+### When there is no more jokes to show
+![image](https://github.com/trungkien3008/RenSCompanyTest/assets/91471354/8d782b07-87ed-4c37-a7e1-f3dc8d11195c)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
